@@ -22,6 +22,9 @@ Naturalmente, $\color{grey}p>q$  e  $\color{grey}a>b>c$. Para ilustração, ser�
 
 Os nós centrais representam hierarquicamente os guardanapos requiridos a cada dia, ao passo que os nós da esquerda são provenientes da lavagem destes. Os arcos em vermelho representam a compra de novos guardanapos, os arcos em verde são provenientes da lavagem rápida e os arcos em azul, da lavagem mais demorada.
 
+### Modelagem do problema e resolução
+
+Foi escolhida a modelagem e programação do problema a partir de um caderno Jupyter (Jupyter Notebook) que pode ser visualizado no repositório por questões de praticidade e afinidade com a linguagem Python 3.
 
 ### Contato
 Dário Hachisu Hossoda: dario.hossoda@usp.br
