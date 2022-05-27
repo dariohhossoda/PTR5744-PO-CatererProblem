@@ -24,7 +24,7 @@ Os nós centrais representam hierarquicamente os guardanapos requiridos a cada d
 
 ### Modelagem do problema e resolução
 
-Foi escolhida a modelagem e programação do problema a partir de um caderno Jupyter (Jupyter Notebook) que pode ser visualizado no repositório por questões de praticidade e afinidade com a linguagem Python 3.
+Foi escolhida a modelagem e programação do problema a partir de um caderno Jupyter ([Jupyter Notebook](napkins.ipynb)) que pode ser visualizado no repositório por questões de praticidade e afinidade com a linguagem Python 3.
 
 ### Contato
 Dário Hachisu Hossoda: dario.hossoda@usp.br
