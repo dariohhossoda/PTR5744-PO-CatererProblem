@@ -12,6 +12,10 @@ Naturalmente, $\color{grey}p>q$  e  $\color{grey}a>b>c$. Para ilustração, ser�
 
  $\color{grey}p=4, \ q=2; \ a=200, \  b=75, \ c=25$.
 
+### Estrutura da Rede
+
+<img src="https://user-images.githubusercontent.com/58784697/170773185-10dcbed1-3090-4203-b863-e00b57c8128d.svg" alt="EstruturaRede" style="width:200px;"/>
+
 
 ### Contato
 Dário Hachisu Hossoda: dario.hossoda@usp.br
