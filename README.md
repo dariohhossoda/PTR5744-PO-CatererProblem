@@ -3,7 +3,7 @@
 ## O Problema dos Guardanapos (The Napkin Problem)
 
 ### Introdução
-Este repositório é um exercício visto em sala de aula da disciplina PTR5744 - Pesquisa Operacional Aplicada ao Planejamento de Transportes de 2022. O intuito deste trabalho é o estudo e aplicação de problemas de fluxo em rede, sendo o exemplo descrito a seguir um caso particular de aplicação desta problemática.
+Este repositório é um exercício visto em sala de aula da disciplina PTR5744 - Pesquisa Operacional Aplicada ao Planejamento de Transportes de 2022, ministrado pelo professor Claudio Barbieri da Cunha. O intuito deste trabalho é o estudo e aplicação de problemas de fluxo em rede, sendo o exemplo descrito a seguir um caso particular de aplicação desta problemática.
 
 
 O problema dos guardanapos é um tipo de problema do fornecedor (The Caterer Problem), em que um fornecedor deve providenciar guardanapos limpos durante um período de $\color{grey}n$ dias; o número de $\color{grey}d_j$ guardanapos requiridos no dia $\color{grey}j$ já é conhecido. Para satisfazer esses requisitos, o fornecedor pode tanto comprar novos guardanapos (por $\color{grey}a$ centavos/peça) ou ter os guardanapos usados lavados. A lavanderia providencia um serviço rápido (guardanapos retornam $\color{grey}q$ dias depois por um preço $\color{grey}b$ centavos/peça) e um serviço lento (guardanapos são devolvidos $\color{grey}p$ dias depois por um preço $\color{grey}c$ centavos/peça).
@@ -15,9 +15,9 @@ Naturalmente, $\color{grey}p>q$  e  $\color{grey}a>b>c$. Para ilustração, ser�
  $\color{grey}p=4, \ q=2; \ a=200, \  b=75, \ c=25$.
 
 ### Estrutura da Rede
-
-<img src="https://user-images.githubusercontent.com/58784697/170779611-b8c55b14-0333-4220-962b-6abf5ff2181a.svg" alt="EstruturaRede" style="width:200px;"/>
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/58784697/170779611-b8c55b14-0333-4220-962b-6abf5ff2181a.svg" alt="EstruturaRede" style="width:250px;"/>
+</p>
 
 #### Significado da rede
 
@@ -25,7 +25,12 @@ Os nós centrais representam hierarquicamente os guardanapos requiridos a cada d
 
 ### Modelagem do problema e resolução
 
-Foi escolhida a modelagem e programação do problema a partir de um caderno Jupyter ([Jupyter Notebook](napkins.ipynb)) que pode ser visualizado no repositório por questões de praticidade e afinidade com a linguagem Python 3.
+Foi escolhida a modelagem e programação do problema a partir de um caderno Jupyter ([Jupyter Notebook](napkins.ipynb)) que pode ser visualizado no repositório por questões de praticidade e afinidade com a linguagem Python 3. Sendo a função objetivo o mínimo custo de fluxo na rede.
 
 ### Contato
-Dário Hachisu Hossoda: dario.hossoda@usp.br
+
+#### Dário Hachisu Hossoda
+
+Mestrando em Engenharia Hidráulica - POLI-USP
+
+e-mail: dario.hossoda@usp.br
