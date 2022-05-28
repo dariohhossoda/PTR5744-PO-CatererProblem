@@ -32,7 +32,7 @@ Foi escolhida a modelagem e programação do problema a partir de um caderno Jup
 Executando o _script_ de fluxo de custo mínimo pode-se obter a rede ótima.
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/58784697/170809989-f813493c-0a63-4add-9f6a-348d1550af2b.svg" alt="EstruturaRede" style="width:250px;"/>
+    <img src="https://user-images.githubusercontent.com/58784697/170810419-10b97bd7-a644-4915-826c-4b4563f6e053.svg" alt="EstruturaRede" style="width:250px;"/>
 </p>
 
 ### Contato
