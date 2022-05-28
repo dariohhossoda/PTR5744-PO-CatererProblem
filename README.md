@@ -21,7 +21,7 @@ Naturalmente, $\color{grey}p>q$  e  $\color{grey}a>b>c$. Para ilustração, ser�
 
 #### Significado da rede
 
-Os nós centrais representam hierarquicamente os guardanapos requiridos a cada dia, ao passo que os nós da esquerda são provenientes da lavagem destes. Os arcos em vermelho representam a compra de novos guardanapos, os arcos em verde são provenientes da lavagem rápida e os arcos em azul, da lavagem mais demorada.
+Os nós centrais representam hierarquicamente os guardanapos requiridos a cada dia, ao passo que os nós da esquerda são provenientes da lavagem destes. Os arcos em <span style="color:red">vermelho</span> representam a compra de novos guardanapos, os arcos em <span style="color:green">verde</span> são provenientes da lavagem rápida e os arcos em <span style="color:#085CFC">azul</span>, da lavagem mais demorada.
 
 ### Modelagem do problema e resolução
 
