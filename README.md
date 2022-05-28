@@ -16,7 +16,7 @@ Naturalmente, $\color{grey}p>q$  e  $\color{grey}a>b>c$. Para ilustração, ser�
 
 ### Estrutura da Rede
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/58784697/170779611-b8c55b14-0333-4220-962b-6abf5ff2181a.svg" alt="EstruturaRede" style="width:250px;"/>
+    <img src="https://user-images.githubusercontent.com/58784697/170809989-f813493c-0a63-4add-9f6a-348d1550af2b.svg" alt="EstruturaRede" style="width:250px;"/>
 </p>
 
 #### Significado da rede
