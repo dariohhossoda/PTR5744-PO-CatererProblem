@@ -27,6 +27,14 @@ Os nós centrais representam hierarquicamente os guardanapos requiridos a cada d
 
 Foi escolhida a modelagem e programação do problema a partir de um caderno Jupyter ([Jupyter Notebook](napkins.ipynb)) que pode ser visualizado no repositório por questões de praticidade e afinidade com a linguagem Python 3. Sendo a função objetivo o mínimo custo de fluxo na rede.
 
+### Resultado do programa
+
+Executando o _script_ de fluxo de custo mínimo pode-se obter a rede ótima.
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/58784697/170809989-f813493c-0a63-4add-9f6a-348d1550af2b.svg" alt="EstruturaRede" style="width:250px;"/>
+</p>
+
 ### Contato
 
 #### Dário Hachisu Hossoda
